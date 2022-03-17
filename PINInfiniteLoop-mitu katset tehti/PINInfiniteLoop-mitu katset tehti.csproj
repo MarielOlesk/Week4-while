@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+    <RootNamespace>PINInfiniteLoop_mitu_katset_tehti</RootNamespace>
+  </PropertyGroup>
+
+</Project>
